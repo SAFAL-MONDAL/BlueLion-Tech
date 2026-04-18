@@ -20,10 +20,10 @@ export default function Navbar({ onLogoClick }) {
             className="cursor-pointer group"
             onClick={onLogoClick}
           >
-            <h1 className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent">
-              BlueLion<span className="text-blue-600">.</span>Tech
+            <h1 className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
+              BlueLion<span className="text-indigo-600"></span>Tech
             </h1>
-            <div className="h-0.5 w-0 group-hover:w-full bg-gradient-to-r from-blue-600 to-cyan-600 transition-all duration-300"></div>
+            <div className="h-0.5 w-0 group-hover:w-full bg-gradient-to-r from-indigo-600 to-purple-600 transition-all duration-300"></div>
           </motion.div>
 
           {/* Desktop Menu */}
@@ -48,7 +48,7 @@ export default function Navbar({ onLogoClick }) {
             <motion.button 
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              className="bg-gradient-to-r from-blue-600 to-cyan-600 text-white px-5 py-2 rounded-full hover:shadow-lg transition-all"
+              className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white px-5 py-2 rounded-full hover:shadow-lg transition-all"
             >
               Sign Up
             </motion.button>

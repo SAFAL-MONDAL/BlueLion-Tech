@@ -41,7 +41,7 @@ export default function Features() {
           <span className="text-blue-600 font-semibold text-sm uppercase tracking-wider">Why Choose Us</span>
           <h2 className="text-4xl md:text-5xl font-bold mt-4 mb-6">
             What Makes{' '}
-            <span className="bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent">
+            <span className="bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
               BlueLion Tech
             </span>
             <br />
