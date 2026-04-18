@@ -170,6 +170,9 @@ export default function Courses() {
               <a href="tel:+918999114538" className="text-xl text-blue-600 hover:text-blue-700 transition font-semibold">
                 +91 8999114538
               </a>
+               <a href="tel:+919749294592" className="text-xl text-blue-600 hover:text-blue-700 transition font-semibold">
+                +91 9749294592
+              </a>
             </div>
             <p className="text-gray-600">
               Limited seats available for the academic year 2025-26. Apply early!

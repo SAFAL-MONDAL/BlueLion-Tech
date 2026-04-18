@@ -48,6 +48,10 @@ export default function Footer() {
                 <a href="tel:+918999114538" className="hover:text-cyan-400">+91 8999114538</a>
               </li>
               <li className="flex items-center gap-2">
+                <span>📞</span>
+                <a href="tel:+919749294592" className="hover:text-cyan-400">+91 9749294592</a>
+              </li>
+              <li className="flex items-center gap-2">
                 <span>📍</span>
                 <span>Asansol - 713304</span>
               </li>
