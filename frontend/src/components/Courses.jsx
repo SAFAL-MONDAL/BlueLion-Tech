@@ -181,7 +181,7 @@ export default function Courses() {
         </motion.div>
 
         {/* Branch Information */}
-        <motion.div
+        {/* <motion.div
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
           viewport={{ once: true }}
@@ -192,7 +192,7 @@ export default function Courses() {
               🏛️ Branch Code: <span className="text-blue-600 font-semibold">WB202623</span>
             </span>
           </div>
-        </motion.div>
+        </motion.div> */}
       </div>
 
       <style jsx>{`

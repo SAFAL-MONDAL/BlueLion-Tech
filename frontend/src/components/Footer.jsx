@@ -24,10 +24,6 @@ export default function Footer() {
               Building Your Skills, Expanding Your Horizons
             </p>
 
-            <div className="text-xs text-gray-500 mb-5">
-              Branch Code: <span className="text-cyan-400">WB202623</span>
-            </div>
-
             {/* Social Media Icons */}
             <div className="flex items-center gap-3">
               {/* Instagram */}
