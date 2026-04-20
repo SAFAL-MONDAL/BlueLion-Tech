@@ -13,7 +13,7 @@ export default function Footer() {
           <div>
             <motion.div whileHover={{ scale: 1.02 }} className="mb-4">
               <h3 className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent">
-                BlueLion<span className="text-cyan-400">.</span>Tech
+                BlueLion<span className="text-cyan-400"></span>Tech
               </h3>
               <p className="text-sm text-cyan-400 mt-1">
                 BLUELION SCHOOL OF ROBOTICS AND AI
@@ -147,7 +147,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 pt-8">
           <div className="text-center text-gray-400 text-sm">
-            <p>&copy; 2025 BlueLion Tech. All rights reserved.</p>
+            <p>&copy; 2026 BlueLion Tech. All rights reserved.</p>
             <p className="mt-2 text-xs">
               Managed By <span className="text-cyan-400">RSR GLOBAL SERVICES</span> | Robotics & AI Innovation HUB
             </p>

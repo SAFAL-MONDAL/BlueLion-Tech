@@ -5,7 +5,7 @@ const projects = [
   {
     title: "Line Follower Robot",
     category: "Robotics",
-    image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=800&q=80",
+    image: "/line-follower.jpg",
     description: "Build a robot that follows a path autonomously",
     color: "from-blue-500 to-cyan-500"
   },
@@ -40,7 +40,7 @@ const projects = [
   {
     title: "3D Printed Models",
     category: "Design",
-    image: "https://images.unsplash.com/photo-1581092335397-9583eb92d232?auto=format&fit=crop&w=800&q=80",
+    image: "/3d_printed_model.jpg",
 
     description: "Design and print your own creations",
     color: "from-indigo-500 to-purple-500"

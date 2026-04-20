@@ -48,11 +48,11 @@ export default function Hero() {
             className="flex justify-center gap-8 md:gap-12 mt-12"
           >
             <div>
-              <div className="text-3xl md:text-4xl font-bold text-indigo-600">700+</div>
+              <div className="text-3xl md:text-4xl font-bold text-indigo-600">100+</div>
               <div className="text-gray-600">Students</div>
             </div>
             <div>
-              <div className="text-3xl md:text-4xl font-bold text-indigo-600">120+</div>
+              <div className="text-3xl md:text-4xl font-bold text-indigo-600">20+</div>
               <div className="text-gray-600">Courses</div>
             </div>
           </motion.div>

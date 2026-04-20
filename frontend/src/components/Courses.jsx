@@ -65,7 +65,7 @@ export default function Courses() {
             <span className="text-5xl">🎓</span>
           </motion.div>
           <span className="text-blue-600 font-semibold text-sm uppercase tracking-wider bg-blue-100 px-4 py-2 rounded-full inline-block mb-4">
-            Academic Programs 2025-26
+            Academic Programs 2026-27
           </span>
           <h2 className="text-4xl md:text-6xl font-bold mt-4 mb-6 text-gray-800">
             Featured Learning{' '}
@@ -175,7 +175,7 @@ export default function Courses() {
               </a>
             </div>
             <p className="text-gray-600">
-              Limited seats available for the academic year 2025-26. Apply early!
+              Limited seats available for the academic year 2026-27. Apply early!
             </p>
           </div>
         </motion.div>

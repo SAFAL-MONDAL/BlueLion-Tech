@@ -15,12 +15,12 @@ export default function CBSEUpdate() {
               CBSE HAS CHANGED EVERYTHING.
             </h2>
             <p className="text-xl md:text-2xl text-gray-700 mb-4">
-              And Your Child's School Starts in 2027.
+              Computational thinking and AI curriculum compulsory for Grade 3 to 8 inline with NEP 2020
             </p>
             <p className="text-lg text-gray-600">
               <span className="font-semibold">Shri Dharmendra Pradhan</span>
               <br />
-              <span className="text-sm">Education Minister</span>
+              <span className="text-sm">Hon. Union  Minsiter of Education Gov of India</span>
             </p>
             <motion.div 
               animate={{ 
